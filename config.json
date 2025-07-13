@@ -1,0 +1,10 @@
+{
+  "WIDTH": 1280,
+  "HEIGHT": 720,
+  "SPACING": 5,
+  "BASE_RADIUS": 1,
+  "REACT_RADIUS": 40,
+  "MAX_ALPHA": 200,
+  "FADE_SPEED": 3,
+  "HUE_STEP": 0.07
+}
